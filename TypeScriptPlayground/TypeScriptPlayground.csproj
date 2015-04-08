@@ -92,7 +92,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Scripts\Main.js" />
     <Content Include="Views\web.config" />
     <Content Include="packages.config" />
   </ItemGroup>
